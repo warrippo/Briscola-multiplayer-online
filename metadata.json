@@ -1,0 +1,6 @@
+{
+  "name": "Briscola Multiplayer",
+  "description": "Gioco di carte della Briscola in tempo reale per sfidarsi da più dispositivi (1v1 o 2v2 a squadre) o contro l'AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
